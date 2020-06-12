@@ -19,6 +19,6 @@ jobs:
       with:
         stable_branch: 'master'
         development_branch: 'feature/screen'
-        allow_ff: false
+        allow_ff: true
       env:
         GITHUB_TOKEN: ${{ secrets.SS }}
