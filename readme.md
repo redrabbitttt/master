@@ -1,8 +1,2 @@
-t
-fdfdf
-dd
-fo real
-www
-ff
-tt
-qqqwerwerwer
+t fdfdf dd fo real www ff tt qqqwerwerwer rer
+
