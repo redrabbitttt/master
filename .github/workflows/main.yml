@@ -18,7 +18,7 @@ jobs:
       uses: redrabbitttt/gh-action-nightly-merge@v1.6.0
       with:
         stable_branch: 'master'
-        development_branch: 'feature/scre'
+        development_branch: 'feature/screen'
         allow_ff: false
       env:
         GITHUB_TOKEN: ${{ secrets.SS }}
